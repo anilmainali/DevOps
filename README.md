@@ -3,6 +3,7 @@ All about DevOps
 
 ## What is DevOps?
 ## Why/ Purpose of learning DevOps?
+## What DevOps is not.
 ## Tools you need to learn inorder to learn DevOps.
 - Version Control Tools:  CVS  Subversion 
 - Git Build automation Tools:  Apache Ant  Maven 
