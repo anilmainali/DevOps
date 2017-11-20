@@ -6,6 +6,7 @@ All about DevOps
 ## Tools you need to learn inorder to learn DevOps.
 - Version Control Tools:  CVS  Subversion 
 - Git Build automation Tools:  Apache Ant  Maven 
+- Testing Tools:  JUnit 
 
 ## Resources
 
