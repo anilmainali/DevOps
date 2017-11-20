@@ -9,7 +9,7 @@ All about DevOps
 - Testing Tools:  JUnit 
 - Continuous Integration Tools:  Jenkins  TeamCity  Apacge Camel 
 - Configuration Management Tools:  Puppet  Chef  SaltStack  Ansible
-
+- Continuous Monitoring Tools:  Nagios  Genios
 
 ## Resources
 
