@@ -8,6 +8,8 @@ All about DevOps
 - Git Build automation Tools:  Apache Ant  Maven 
 - Testing Tools:  JUnit 
 - Continuous Integration Tools:  Jenkins  TeamCity  Apacge Camel 
+- Configuration Management Tools:  Puppet  Chef  SaltStack  Ansible
+
 
 ## Resources
 
