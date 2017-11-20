@@ -7,6 +7,7 @@ All about DevOps
 - Version Control Tools:  CVS  Subversion 
 - Git Build automation Tools:  Apache Ant  Maven 
 - Testing Tools:  JUnit 
+- Continuous Integration Tools:  Jenkins  TeamCity  Apacge Camel 
 
 ## Resources
 
