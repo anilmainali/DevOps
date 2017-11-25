@@ -27,6 +27,8 @@ https://www-01.ibm.com/marketing/iwm/dre/signup?source=urx-15681&S_PKG=ov18162&c
 ### Links 
 - https://devops.com/
 - https://www.codementor.io/devops
+- https://www.pluralsight.com/courses/devops-big-picture?aid=7010a000001x3JXAAY&promo=&oid=&utm_source=bing&utm_medium=ppc&utm_campaign=Bing_US_Dynamic&utm_content=&utm_term=
+
 
 
 
